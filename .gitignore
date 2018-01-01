@@ -1,0 +1,9 @@
+.DS_Store
+*~
+*.swp
+*.py[cod]
+*.s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*.cache
