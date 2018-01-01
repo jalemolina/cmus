@@ -1,2 +1,9 @@
 q
+factivate
+factivate 90s
+90s
+fset 90s=date>=1990&date<2000
+fset classical=genre="Classical"
+bind -f common q shell screen -d cmus
+add ~/Música/
 add ~/Música/2'/
